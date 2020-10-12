@@ -1,0 +1,3 @@
+Foi utilizado o banco de dados do phpmyadmin, servidor do Xampp. 
+Para rodar o projeto basta colocar a pasta do projeto 'rh' na pasta htdocs do xampp e estartar o servidor e entrar na url localhost/rh.
+O banco de dadoss irá zerado sem nenhuma informação, há o dunmp dele na pasta raiz do projeto, basta importa ele no phpmyadmin.
